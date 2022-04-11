@@ -20,12 +20,23 @@
     font-size: 16pt;
     line-height: 1.7;
 }
-
-
-
-
-
-
+.for-your-needs {
+    width: 60%;
+    margin: auto;
+}
+.for-your-needs h1 {
+    color: #EB6874;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24pt;
+    letter-spacing: 6.5px;
+}
+.for-your-needs p {
+    text-align: center;
+    letter-spacing: 2px;
+    color: #F2F2F2E0;
+    font-size: 20px;
+}
 
 .pinkbg {
     background-color: #e8ddda;
@@ -61,4 +72,5 @@
     color: #474646;
     font-size: 12pt;
     line-height: 2.5;
+    display: inline-block;
 }
