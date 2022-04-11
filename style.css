@@ -1,0 +1,42 @@
+.pinkbg {
+    background-color: #e8ddda;
+}
+
+.bluebg {
+    background-color: #0C2242;
+}
+
+.mybutton:hover {
+    background-color: #EB6874;
+    color: #fff;
+}
+
+.mybutton {
+    background-color: #fff;
+    color: #0C2242;
+    font-size: 18pt;
+    font-weight: bolder;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.round-30 {
+    border-radius: 30px;
+}
+
+.custom-padding {
+    padding: 50px;
+}
+
+.give-call h1 {
+    color: #EB6874;
+    letter-spacing: 5.5px;
+    font-size: 17pt;
+}
+
+.give-call li {
+    list-style: none;
+    color: #474646;
+    font-size: 12pt;
+    line-height: 2.5;
+}
