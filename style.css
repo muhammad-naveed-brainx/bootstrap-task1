@@ -21,6 +21,7 @@
     line-height: 1.7;
 }
 .for-your-needs {
+    padding-top: 20px;
     width: 60%;
     margin: auto;
 }
@@ -68,11 +69,9 @@
     font-size: 17pt;
 }
 .give-call li {
-    list-style: none;
     color: #474646;
     font-size: 12pt;
     line-height: 2.5;
-    display: inline-block;
 }
 .section3 {
     width: 80%;
@@ -99,4 +98,31 @@
     font-size: 20px;
     width: 50%;
     margin: auto;
+}
+.myfooter h4{
+    color: #EB6874;
+    font-size: 16pt;
+    font-weight: bold;
+}
+.myfooter li{
+    list-style: none;
+}
+.width-300{
+    width: 300px;
+}
+
+.newsbutton:hover {
+    background-color: #EB6874;
+    color: #fff;
+}
+.newsbutton {
+    background-color: #fff;
+    color: #0C2242;
+    font-weight: bolder;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.post1 {
+    font-size: 16pt;
 }
