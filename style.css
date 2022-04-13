@@ -5,7 +5,8 @@
     background-color: #0C2242;
 }
 .content1 {
-    padding: 230px 290px 230px 300px ;
+    padding: 10% 17% 10% 17%;
+    /* padding: 230px 290px 230px 250px ; */
 }
 .content1 h1 {
     color: #EB6874;
@@ -28,7 +29,8 @@
     margin: auto;
   }
 .for-your-needs {
-    padding: 90px 262px 45px 262px;
+    padding: 10% 18% 8% 18%;
+    /* padding: 90px 262px 45px 262px; */
 }
 .for-your-needs h1 {
     color: #EB6874;
@@ -43,11 +45,6 @@
     color: #F2F2F2E0;
     font-size: 20px;
 }
-
-.gallery {
-    padding: 0 190px 125px 190px;
-}
-
 
 .mybutton:hover {
     background-color: #EB6874;
@@ -65,40 +62,30 @@
     border-radius: 30px;
 }
 
-.give-call h1 {
+#givecall-h1 {
     color: #EB6874;
     letter-spacing: 5.5px;
     font-size: 17pt;
 }
-.give-call li {
+.fa-ul li {
     color: #474646;
     font-size: 12pt;
     line-height: 2.5;
 }
-.section3 {
-    width: 80%;
-    margin: auto;
-}
-.section3 h1{
+
+#heading-map{
     color: #EB6874;
 }
-.section3 p{
+#para-map{
     width: 80%;
     color: #E8E8E8;
 }
-.pt-50{
-    padding-top: 100px;
-}
-.newsandblogs{
-    width: 80%;
-    margin: auto;
-}
 
-.newsandblogs h1{
+#h1news {
     color: #0C2242;
     letter-spacing: 7.5px;
     font-size: 20px;
-    width: 50%;
+    width: 520px;
     margin: auto;
 }
 .myfooter h4{
@@ -106,8 +93,9 @@
     font-size: 16pt;
     font-weight: bold;
 }
-.myfooter li{
+.myfooter ul{
     list-style: none;
+    padding-left: 0;
 }
 .width-300{
     width: 300px;
@@ -128,3 +116,16 @@
 .post1 {
     font-size: 16pt;
 }
+i.fa {
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0 0 2px #888;
+    padding: 0.5em 0.6em;
+  }
+  .myicon {
+      border-radius: 50%;
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      background-color: white;
+  }
