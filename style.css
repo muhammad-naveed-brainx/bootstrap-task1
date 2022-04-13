@@ -1,3 +1,12 @@
+.pinkbg {
+    background-color: #e8ddda;
+}
+.bluebg {
+    background-color: #0C2242;
+}
+.content1 {
+    padding: 230px 290px 230px 300px ;
+}
 .content1 h1 {
     color: #EB6874;
     text-align: center;
@@ -5,25 +14,21 @@
     font-size: 30pt;
     letter-spacing: 1.5pt;
 }
-
-.ruler {
-    width: 45px;
-    height: 3px;
-    border-radius: 5px;
-    background-color: #474646;
-    margin: 10px auto;
-  }
-
 .content1 p {
     color: #474646;
     text-align: center;
     font-size: 16pt;
     line-height: 1.7;
 }
-.for-your-needs {
-    padding-top: 20px;
-    width: 60%;
+.ruler {
+    width: 45px;
+    height: 3px;
+    border-radius: 5px;
+    background-color: #474646;
     margin: auto;
+  }
+.for-your-needs {
+    padding: 90px 262px 45px 262px;
 }
 .for-your-needs h1 {
     color: #EB6874;
@@ -39,12 +44,11 @@
     font-size: 20px;
 }
 
-.pinkbg {
-    background-color: #e8ddda;
+.gallery {
+    padding: 0 190px 125px 190px;
 }
-.bluebg {
-    background-color: #0C2242;
-}
+
+
 .mybutton:hover {
     background-color: #EB6874;
     color: #fff;
@@ -60,9 +64,7 @@
 .round-30 {
     border-radius: 30px;
 }
-.custom-padding {
-    padding: 50px;
-}
+
 .give-call h1 {
     color: #EB6874;
     letter-spacing: 5.5px;
